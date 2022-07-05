@@ -1,2 +1,2 @@
-# pitch-correction-system
-Final degree project in Telecommunications Technology Engineering
+# Pitch Correction System
+Final degree project in Telecommunications Technology Engineering, University of Granada.
